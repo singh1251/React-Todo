@@ -4,6 +4,13 @@
 
 This is a modern, responsive Todo List application built with React and enhanced with Chakra UI. It offers a clean, intuitive interface for managing daily tasks with persistent storage and real-time search functionality.
 
+## Screenshots
+
+### Home Page
+
+![Home Page](Screenshots/React-Todo.png)
+React Todo List Application
+
 ## System Design
 
 The application follows a component-based architecture typical of React applications:
