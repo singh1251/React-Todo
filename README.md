@@ -37,6 +37,7 @@ Key aspects of the implementation include:
 
 - **Create Tasks**: Easily add new tasks to your list.
 - **Update Tasks**: Edit existing tasks to update their details.
+- **Todo Description**: Click on a todo item to reveal its description and the last updated status.
 - **Mark as Completed**: Toggle tasks between different states.
 - **Delete Tasks**: Remove tasks that are completed or no longer needed.
 - **Search Functionality**: Real-time filtering of todos based on search input.
