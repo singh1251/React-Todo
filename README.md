@@ -8,7 +8,7 @@ This is a modern, responsive Todo List application built with React and enhanced
 
 ### Home Page
 
-![Home Page](Screenshots/React-Todo.png)
+![Home Page](Screenshots/React-Todo-1.png)
 React Todo List Application
 
 ## System Design
